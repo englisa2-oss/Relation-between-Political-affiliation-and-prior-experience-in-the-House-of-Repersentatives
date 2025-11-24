@@ -1,4 +1,4 @@
-# Relation-between-Political-party-and-prior-experience-in-the-House-of-Repersentatives
+# STA145 Project Final Project
 My replication project for STA-145, is a look at the the United States House of Representatives and see if their is a pattern between the a House members political party and if that has a impact on if those said members had prior elected positions. This is because I am interested in seeing if the 2024 election has had a noticable impact in party makeup, and if one party or another had a noticable preference for new repersenatitives.  
 
 # Instructions
